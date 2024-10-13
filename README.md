@@ -1,7 +1,6 @@
 # ONE PAGER DOCUMENT
 # Jinawiri Fresh Produce Website
 Welcome to the Jinawiri-Fresh-Produce! A fruits' export company website
-# JINAWIRI FRESH PRODUCE
 # PROJECT DESCRIPTION
 Jinawiri Fresh Produce is a project for a fresh produce company in Nairobi Kenya. The project aims at increasing market reach therefore there is a need for a website to help advertise and manage the business.
 ## Problem addressed
